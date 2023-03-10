@@ -1,0 +1,15 @@
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\bin\Debug\net6.0\ChatServer1.exe
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\bin\Debug\net6.0\ChatServer1.deps.json
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\bin\Debug\net6.0\ChatServer1.runtimeconfig.json
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\bin\Debug\net6.0\ChatServer1.dll
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\bin\Debug\net6.0\ChatServer1.pdb
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.csproj.AssemblyReference.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.AssemblyInfoInputs.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.AssemblyInfo.cs
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.dll
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\refint\ChatServer1.dll
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.pdb
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ChatServer1.genruntimeconfig.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer1\obj\Debug\net6.0\ref\ChatServer1.dll

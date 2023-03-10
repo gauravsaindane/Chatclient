@@ -1,0 +1,6 @@
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer\obj\Debug\MainWindow.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer\obj\Debug\App.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+C:\Users\GAURAV SAINDANE\source\repos\ChatClient\ChatServer\obj\Debug\ChatServer_MarkupCompile.lref
